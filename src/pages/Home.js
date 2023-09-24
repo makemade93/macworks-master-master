@@ -87,12 +87,12 @@ function Home(props) {
       <div className="container">
         <BigCards />
         <SmallCards thumbnail={thumbnail[9]} />
-        <SmallCards thumbnail={thumbnail[0]} />
         <SmallCardsBehance thumbnail={thumbnail[1]} />
+        <SmallCards thumbnail={thumbnail[8]} />
+        <SmallCards thumbnail={thumbnail[0]} />
         <SmallCardsBehance thumbnail={thumbnail[2]} />
         <SmallCards thumbnail={thumbnail[3]} />
         <SmallCards thumbnail={thumbnail[4]} />
-        <SmallCards thumbnail={thumbnail[8]} />
         <SmallCardsBehance thumbnail={thumbnail[6]} />
         <SmallCardsBehance thumbnail={thumbnail[7]} />
         <SmallCards thumbnail={thumbnail[5]} />
