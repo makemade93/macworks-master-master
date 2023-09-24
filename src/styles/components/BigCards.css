@@ -1,0 +1,58 @@
+.big-card {
+  /* background-color: white; */
+  grid-column: 1 / 4;
+  border-radius: var(--radius-xxl);
+  padding: 12px 12px 6px 12px;
+  transition: cubic-bezier(0.785, 0.135, 0.15, 0.86) 0.3s;
+  user-select: none;
+}
+
+.big-card:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+  box-shadow: var(--shadow-hover);
+  transition: cubic-bezier(0.785, 0.135, 0.15, 0.86) 0.3s;
+}
+
+.big-card .thumbnail {
+  background-color: black;
+  height: 380px;
+  border-radius: var(--radius-xl);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  background-image: url("../../imgs/1.png");
+}
+
+.big-card .text-wrapper {
+  margin: 14px 16px 14px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.big-card .text-wrapper h3 {
+  font-size: var(--font-size-l);
+  font-weight: var(--font-weight-bold);
+}
+
+.big-card .text-wrapper div {
+  display: flex;
+  align-items: center;
+}
+
+.big-card .text-wrapper div p {
+  font-size: var(--font-size-s);
+  color: var(--gray-400);
+  font-weight: var(--font-weight-medium);
+}
+
+.big-card .text-wrapper .tag {
+  margin-left: 20px;
+  padding: 2px 6px 4px 6px;
+  border-radius: var(--radius-xs);
+  background-color: #95c8e4;
+  color: #6baacc;
+  font-weight: var(--font-weight-bold);
+  font-size: var(--font-size-s);
+}

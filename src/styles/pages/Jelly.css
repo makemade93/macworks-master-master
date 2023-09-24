@@ -1,0 +1,73 @@
+.jelly-img_title {
+  background-image: url(../../imgs/jelly/01.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: white;
+}
+
+.jelly-img_2 {
+  background-image: url(../../imgs/jelly/02.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 31vw;
+  max-height: 440px;
+  grid-column: 1/5;
+}
+
+.jelly-img_3 {
+  background-image: url(../../imgs/jelly/03.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  /* 개별정의 */
+  height: 31vw;
+  max-height: 440px;
+  grid-column: 1/5;
+}
+
+.jelly-img_4 {
+  background-image: url(../../imgs/jelly/04.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 31vw;
+  max-height: 440px;
+  grid-column: 1/5;
+}
+
+.jelly-img_5 {
+  background-image: url(../../imgs/jelly/05.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 31vw;
+  max-height: 440px;
+  grid-column: 1/5;
+}
+
+.jelly-img_6 {
+  background-image: url(../../imgs/jelly/06.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 31vw;
+  max-height: 440px;
+  grid-column: 1/5;
+}
+
+.jelly-img_7 {
+  background-image: url(../../imgs/jelly/07.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 31vw;
+  max-height: 440px;
+  grid-column: 1/5;
+}

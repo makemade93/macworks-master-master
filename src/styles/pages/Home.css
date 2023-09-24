@@ -1,0 +1,17 @@
+.container-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--background-color);
+  padding: 0 40px !important;
+}
+
+.container {
+  margin: 80px 0;
+  width: 100%;
+  max-width: var(--pc-maxwidth);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px 10px;
+}

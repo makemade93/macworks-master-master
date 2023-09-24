@@ -1,0 +1,38 @@
+.mobile-block-bg {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.mobile-block-img {
+  width: 15vw;
+  height: 15vw;
+  background-repeat: no-repeat;
+  background-image: url("../imgs/motions/06.gif");
+  background-size: cover;
+  background-position: bottom;
+  margin-bottom: 20px;
+  animation: fireOff 10s 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+
+.mobile-block-font {
+  text-align: center;
+  font-size: 15px;
+  background-color: black;
+  color: white;
+}
+
+@keyframes fireOff {
+  0% {
+    scale: 120%;
+    opacity: 1;
+  }
+  100% {
+    scale: 50%;
+    opacity: 0.5;
+  }
+}

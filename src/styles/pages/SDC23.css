@@ -1,0 +1,87 @@
+.sdc23-img_1 {
+  background-image: url(../../imgs/SDC23/01.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+
+.sdc23-img_2 {
+  background-image: url(../../imgs/SDC23/02.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+
+.sdc23-img_3 {
+  background-image: url(../../imgs/SDC23/03.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+
+.sdc23-img_4 {
+  background-image: url(../../imgs/SDC23/04.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+
+.sdc23-img_5 {
+  background-image: url(../../imgs/SDC23/05.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+
+.sdc23-img_6 {
+  background-image: url(../../imgs/SDC23/06.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+
+.sdc23-img_7 {
+  background-image: url(../../imgs/SDC23/07.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+
+.sdc23-img_8 {
+  background-image: url(../../imgs/SDC23/08.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}

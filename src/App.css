@@ -1,0 +1,62 @@
+/* css reset.css */
+@import url(styles/reset.css);
+
+/* css design token */
+@import url(styles/designtoken.css);
+
+/* css Animation import */
+@import url(styles/transition.css);
+
+/* css Component import */
+@import url(styles/components/BigCards.css);
+@import url(styles/components/Footer.css);
+@import url(styles/components/SmallCards.css);
+@import url(styles/components/Navbar.css);
+
+/* css page import */
+@import url(styles/pages/Home.css);
+@import url(styles/pages/About.css);
+@import url(styles/pages/Designsystem.css);
+@import url(styles/pages/SDC23.css);
+@import url(styles/pages/SDC22.css);
+@import url(styles/pages/Jelly.css);
+@import url(styles/pages/Motions.css);
+@import url(styles/pages/SignalLive.css);
+@import url(styles/pages/Timebank.css);
+@import url(styles/MobileBlock.css);
+
+.App {
+  width: 100vw;
+  padding: 0 auto;
+  margin: 0 auto;
+}
+
+body {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+/* drag */
+::selection {
+  background: #95c8e4;
+  color: #4f97be;
+}

@@ -1,0 +1,31 @@
+.footer-container {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--gray-300);
+}
+.footer-warpper {
+  width: 100vw;
+  max-width: 1200px;
+  margin: 0 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+.footer-warpper p {
+  padding: 20px 0;
+  font-size: 12px;
+  color: var(--gray-400);
+}
+
+.footer-warpper_links {
+  display: flex;
+}
+
+.footer-warpper_links a {
+  margin-left: 20px;
+  font-size: 12px;
+  color: var(--gray-400);
+}

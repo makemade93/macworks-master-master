@@ -1,0 +1,192 @@
+.ds-img_title {
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #f2f2f2;
+  background-image: url(../../imgs/1.png);
+}
+
+.ds-img_1 {
+  background-image: url(../../imgs/designsystem/01.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+
+.ds-img_2 {
+  background-image: url(../../imgs/designsystem/02.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+
+.ds-img_3 {
+  background-image: url(../../imgs/designsystem/03.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+
+.ds-img_4 {
+  background-image: url(../../imgs/designsystem/04.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+
+.ds-img_5 {
+  background-image: url(../../imgs/designsystem/05.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+
+.ds-img_6 {
+  background-image: url(../../imgs/designsystem/06.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+
+.ds-img_7 {
+  background-image: url(../../imgs/designsystem/07.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+.ds-img_8 {
+  background-image: url(../../imgs/designsystem/08.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+.ds-img_9 {
+  background-image: url(../../imgs/designsystem/09.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+.ds-img_10 {
+  background-image: url(../../imgs/designsystem/10.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+.ds-img_11 {
+  background-image: url(../../imgs/designsystem/11.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+.ds-img_12 {
+  background-image: url(../../imgs/designsystem/12.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+.ds-img_13 {
+  background-image: url(../../imgs/designsystem/13.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+.ds-img_14 {
+  background-image: url(../../imgs/designsystem/14.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+.ds-img_15 {
+  background-image: url(../../imgs/designsystem/15.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+.ds-img_16 {
+  background-image: url(../../imgs/designsystem/16.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+
+.ds-img_17 {
+  background-image: url(../../imgs/designsystem/17.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 53vw;
+  max-height: 680px;
+  grid-column: 1/5;
+}
+
+.ds-video {
+  width: 100%;
+  height: 100%;
+  max-width: 1200px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}

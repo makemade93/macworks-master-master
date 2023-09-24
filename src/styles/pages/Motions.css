@@ -1,0 +1,110 @@
+.Motions-img_1 {
+  background-image: url(../../imgs/motions/01.gif);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 40vw;
+  max-height: 700px;
+}
+.Motions-img_2 {
+  background-image: url(../../imgs/motions/02.gif);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 31vw;
+  max-height: 500px;
+}
+
+.Motions-img_3 {
+  background-image: url(../../imgs/motions/03.gif);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 31vw;
+  max-height: 500px;
+}
+
+.Motions-img_4 {
+  background-image: url(../../imgs/motions/04.gif);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 40vw;
+  max-height: 600px;
+}
+
+.Motions-img_5 {
+  background-image: url(../../imgs/motions/05.gif);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 40vw;
+  max-height: 600px;
+}
+
+.Motions-img_6 {
+  background-image: url(../../imgs/motions/06.gif);
+  background-position: center;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 30vw;
+  max-height: 300px;
+  background-color: black;
+}
+.Motions-img_7 {
+  background-image: url(../../imgs/motions/07.gif);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 30vw;
+  max-height: 300px;
+  background-color: white;
+}
+
+.Motions-img_8 {
+  background-image: url(../../imgs/motions/08.gif);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 50vw;
+  max-height: 600px;
+  background-color: white;
+}
+
+.Motions-img_9 {
+  background-image: url(../../imgs/motions/09.gif);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 50vw;
+  max-height: 600px;
+}
+
+.Motions-img_10 {
+  background-image: url(../../imgs/motions/10.gif);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 50vw;
+  max-height: 600px;
+}
+
+.Motions-img_11 {
+  background-image: url(../../imgs/motions/11.gif);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* 개별정의 */
+  height: 50vw;
+  max-height: 600px;
+}

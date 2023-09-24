@@ -1,0 +1,294 @@
+/* proeject header 부분 */
+.project-img {
+  width: 100%;
+  height: 40vw;
+  max-height: 550px;
+  max-width: 1200px;
+  margin-top: 100px;
+  border-radius: 24px;
+  /* 이미지 설정 */
+  background-position: center;
+}
+
+.project-video {
+  width: 100%;
+  height: 100%;
+  max-width: 1200px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.project-desc {
+  margin: 80px 0 60px 0;
+  width: 100%;
+  max-width: 1200px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 30px 40px;
+}
+
+.project-desc h1 {
+  color: white;
+  font-size: 32px;
+  line-height: 44px;
+  font-weight: 800;
+}
+
+.project-desc p {
+  color: #f5f5f5;
+  font-size: 18px;
+  line-height: 28px;
+  word-break: keep-all;
+  opacity: 0.6;
+}
+
+/* proeject info 카드 */
+.project-info {
+  width: 90%;
+  height: auto;
+  min-height: 50px;
+  max-width: 1120px;
+  border-radius: 20px;
+  background-color: #000000;
+  padding: 40px 40px 35px 40px;
+  margin: 0 40px 100px 40px;
+  /* gird */
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 0 25px;
+  align-items: start;
+  /* font */
+  color: white;
+  font-size: 13px;
+}
+
+.project-info p p {
+  margin-top: 3px;
+  font-weight: 500;
+  opacity: 0.6;
+}
+
+/* proeject 2단으로 글 쓰는 부분 */
+.project-container {
+  margin: 60px 0 80px 0;
+  width: 100%;
+  max-width: 1200px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 24px 40px;
+}
+
+.project-container h1 {
+  color: #5d5d5d;
+  font-size: 26px;
+}
+
+.project-container h2 {
+  color: #5d5d5d;
+  font-size: 18px;
+}
+
+.project-container p {
+  color: #5d5d5d;
+  font-size: 16px;
+  line-height: 26px;
+  opacity: 0.8;
+}
+
+/* proejct 이미지 4단 그리드 */
+.project-img-grid {
+  margin: 80px 0 20px 0;
+  width: 100%;
+  max-width: 1200px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+/* img 링크 관리 */
+.project-img_title {
+  background-image: url(../../imgs/timebank/01.png);
+  background-size: cover;
+}
+
+.project-img_2 {
+  background-image: url(../../imgs/timebank/motionlogo.gif);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: white;
+  /* 개별정의 */
+  height: 40vw;
+  max-height: 550px;
+  grid-column: 1/3;
+  grid-row: 1/3;
+}
+
+.project-img_3 {
+  background-image: url(../../imgs/timebank/03.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: white;
+  /* 개별정의 */
+  height: 20vw;
+  max-height: 275px;
+  grid-column: 3/5;
+}
+
+.project-img_4 {
+  background-image: url(../../imgs/timebank/04.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: white;
+  /* 개별정의 */
+  height: 20vw;
+  max-height: 275px;
+  grid-column: 3/5;
+}
+
+.project-img_5 {
+  background-image: url(../../imgs/timebank/05.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: white;
+  /* 개별정의 */
+  height: 40vw;
+  max-height: 550px;
+  grid-column: 1/5;
+}
+
+.project-img_6 {
+  background-image: url(../../imgs/timebank/06.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: white;
+  /* 개별정의 */
+  height: 40vw;
+  max-height: 550px;
+  grid-column: 3/5;
+}
+
+.project-img_7 {
+  background-image: url(../../imgs/timebank/07.gif);
+  background-position: center;
+  background-size: 101%;
+  background-repeat: no-repeat;
+  background-color: white;
+  /* 개별정의 */
+  height: 40vw;
+  max-height: 550px;
+  grid-column: 1/3;
+}
+
+.project-img_8 {
+  background-image: url(../../imgs/timebank/08.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* border: 1px solid rgba(0, 0, 0, 0.05); */
+  /* 개별정의 */
+  height: 76vw;
+  max-height: 550px;
+}
+
+.project-img_9 {
+  background-image: url(../../imgs/timebank/09.gif);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* border: 1px solid rgba(0, 0, 0, 0.05); */
+  /* 개별정의 */
+  height: 76vw;
+  max-height: 550px;
+}
+
+.project-img_10 {
+  background-image: url(../../imgs/timebank/10.gif);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* border: 1px solid rgba(0, 0, 0, 0.05); */
+  /* 개별정의 */
+  height: 76vw;
+  max-height: 550px;
+}
+
+.project-img_11 {
+  background-image: url(../../imgs/timebank/11.gif);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* border: 1px solid rgba(0, 0, 0, 0.05); */
+  /* 개별정의 */
+  height: 76vw;
+  max-height: 550px;
+}
+
+.project-img_12 {
+  background-image: url(../../imgs/timebank/12.gif);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* border: 1px solid rgba(0, 0, 0, 0.05); */
+  /* 개별정의 */
+  height: 76vw;
+  max-height: 550px;
+}
+
+.project-img_13 {
+  background-image: url(../../imgs/timebank/13.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* border: 1px solid rgba(0, 0, 0, 0.05); */
+  /* 개별정의 */
+  height: 76vw;
+  max-height: 550px;
+}
+
+.project-img_14 {
+  background-image: url(../../imgs/timebank/14.gif);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* border: 1px solid rgba(0, 0, 0, 0.05); */
+  /* 개별정의 */
+  height: 76vw;
+  max-height: 550px;
+}
+
+.project-img_15 {
+  background-image: url(../../imgs/timebank/15.gif);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* border: 1px solid rgba(0, 0, 0, 0.05); */
+  /* 개별정의 */
+  height: 76vw;
+  max-height: 550px;
+}
+
+.project-img_16 {
+  background-image: url(../../imgs/timebank/16.gif);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* border: 1px solid rgba(0, 0, 0, 0.05); */
+  /* 개별정의 */
+  height: 76vw;
+  max-height: 550px;
+}
+
+.project-img_17 {
+  background-image: url(../../imgs/timebank/17.gif);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* border: 1px solid rgba(0, 0, 0, 0.05); */
+  /* 개별정의 */
+  height: 76vw;
+  max-height: 550px;
+}
