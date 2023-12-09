@@ -24,6 +24,7 @@ import Timebank from "./pages/Timebank";
 import SignalLive from "./pages/SignalLive";
 import Motions from "./pages/Motions";
 import Jelly from "./pages/Jelly";
+import Camly from "./pages/Camly";
 import MobileBlock from "./pages/MobileBlock";
 import ErrorPage from "./pages/ErrorPage";
 
@@ -46,6 +47,7 @@ function App() {
             <Route path="/signal-live" element={<SignalLive />} />
             <Route path="/jelly-monster" element={<Jelly />} />
             <Route path="/motions" element={<Motions />} />
+            <Route path="/camly" element={<Camly />} />
             <Route path="*" element={<ErrorPage />} />
           </Routes>
           <Footer />

@@ -153,6 +153,14 @@
 .thumbnail_10_gif {
   background-image: url("../../imgs/thumbnail_10.gif") !important;
 }
+.thumbnail_11 {
+  background-image: url("../../imgs/thumbnail_11.png");
+}
+
+.thumbnail_11_gif {
+  background-image: url("../../imgs/thumbnail_11.gif");
+}
+
 .behance-badge {
   background-color: rgba(56, 56, 56, 0.2);
   /* border: 1px solid rgba(255, 255, 255, 0.1); */

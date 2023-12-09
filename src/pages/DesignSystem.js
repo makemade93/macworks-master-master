@@ -344,16 +344,20 @@ function DesignSystem(props) {
           </p>
         </div>
 
-        {/* 14번섹션 */}
-        <div className="project-img-grid" style={{ border: "none" }}>
+        {/* 15번섹션 */}
+        <div
+          className="project-img-grid"
+          style={{
+            margin: "220px 0 0 0",
+            border: "none",
+          }}
+        >
           <div className="ds-img_14"></div>
-          <div className="ds-img_15"></div>
-          <div className="ds-img_16"></div>
         </div>
+        {/* 14번섹션 */}
         <div
           className="project-container"
           style={{
-            margin: "20px 0 80px 0",
             gridAutoColumns: "1fr 1fr 1fr 1fr 1fr",
           }}
         >
@@ -370,6 +374,42 @@ function DesignSystem(props) {
             파일은 시스템의 일부로 귀속되어 있어, 시스템이 더 높은 품질로 발전할
             수 있도록 선순환 구조를 구축하였습니다.
           </p>
+        </div>
+        {/* 15번섹션 */}
+        <div className="project-img-grid" style={{ border: "none" }}>
+          <div className="ds-img_15"></div>
+        </div>
+        {/* 15번섹션 */}
+        <div className="project-img-grid" style={{ border: "none" }}>
+          <div className="ds-img_16"></div>
+        </div>
+        {/* 15번섹션 */}
+        <div className="project-img-grid" style={{ border: "none" }}>
+          <div className="ds-img_17"></div>
+        </div>
+        {/* 15번섹션 */}
+        <div className="project-img-grid" style={{ border: "none" }}>
+          <div className="ds-img_18"></div>
+        </div>
+        {/* 15번섹션 */}
+        <div className="project-img-grid" style={{ border: "none" }}>
+          <div className="ds-img_19"></div>
+        </div>
+        {/* 15번섹션 */}
+        <div className="project-img-grid" style={{ border: "none" }}>
+          <div className="ds-img_20"></div>
+        </div>
+        {/* 15번섹션 */}
+        <div className="project-img-grid" style={{ border: "none" }}>
+          <div className="ds-img_21"></div>
+        </div>
+        {/* 15번섹션 */}
+        <div className="project-img-grid" style={{ border: "none" }}>
+          <div className="ds-img_22"></div>
+        </div>
+        {/* 15번섹션 */}
+        <div className="project-img-grid" style={{ border: "none" }}>
+          <div className="ds-img_23"></div>
         </div>
       </div>
     </div>

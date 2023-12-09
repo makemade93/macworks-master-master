@@ -17,7 +17,7 @@ function SmallCards(props) {
   useEffect(() => {
     setFade(`end_transition_` + props.thumbnail[6]);
   }, []);
-
+  // ["thumbnail_11", "Camly", "Camly", "23", "UX/UI", "UX-tag", "row1"],
   return (
     <div
       className={`small-card start_transition ${fade}`}
