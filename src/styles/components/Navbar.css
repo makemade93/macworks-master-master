@@ -21,11 +21,12 @@
   align-items: center;
   margin: 0 40px;
 }
-
 .nav-wrapper {
   padding: 0;
   margin-right: 10px;
   display: flex;
+  align-items: center;
+  justify-content: center;
   list-style: none;
 }
 
@@ -37,12 +38,10 @@
   color: var(--black);
   font-weight: var(--font-weight-bold);
 }
-
 .nav-logo:hover {
   background-color: black;
   color: white;
 }
-
 .nav-btn {
   font-size: var(--font-size-s);
   border-radius: var(--radius-s);
@@ -51,7 +50,6 @@
   text-decoration: none;
   color: black;
 }
-
 .nav-btn:hover {
   background-color: rgba(0, 0, 0, 0.05);
 }

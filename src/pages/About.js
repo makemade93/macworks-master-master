@@ -21,7 +21,7 @@ function About(props) {
         <div className="about_header-wrapper">
           <div className="about_header-text">
             <h1>KIHYUN KIM</h1>
-            <h1>ARCHIVE.MACKWORS</h1>
+            <h1>KIWORKS.CO.KR</h1>
             <h3>
               Hello, I am an experienced UX/UI designer with a focus on visual
               design. As a designer, I possess a strong understanding of

@@ -10,8 +10,8 @@ function Navbar() {
   return (
     <div className="navbar">
       <div className="nav-center">
-        <Link to="/" className="nav-logo">
-          archive.macworks
+        <Link to="/" className="nav-logo ">
+          KI-WORKS
         </Link>
         <div className="nav-wrapper">
           <Link to="/" className="nav-btn">

@@ -24,7 +24,12 @@ function BigCards() {
         navigate("/designsystem");
       }}
     >
-      <div className="thumbnail big-card_thumbnail"></div>
+      <div className="thumbnail big-card_thumbnail big-card_Thumbnail-flex">
+        <h1>
+          Samsung Developers.com <br /> Design System v_1.0
+        </h1>
+        <h1>Samsung Developers / Samsung Developers Conference / SDC Korea</h1>
+      </div>
       <div className="text-wrapper">
         <h3>Samsung Developer Design System</h3>
         <div>

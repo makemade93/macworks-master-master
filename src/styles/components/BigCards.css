@@ -24,6 +24,26 @@
   background-image: url("../../imgs/1.png");
 }
 
+.big-card_Thumbnail-flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.big-card_Thumbnail-flex h1:nth-child(1) {
+  margin-top: 40px;
+  margin-left: 45px;
+  font-size: 40px;
+  color: white;
+}
+.big-card_Thumbnail-flex h1:nth-child(2) {
+  margin-bottom: 40px;
+  margin-left: 45px;
+  color: white;
+  font-size: 20px;
+  opacity: 0.5;
+}
+
 .big-card .text-wrapper {
   margin: 14px 16px 14px 16px;
   display: flex;
