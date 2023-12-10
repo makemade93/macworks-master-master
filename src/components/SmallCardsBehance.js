@@ -9,13 +9,24 @@ import styles from "../styles/components/SmallCards.css";
 function SmallCardsBehance(props) {
   // state
   let url = props.thumbnail[2];
-  let [mouseHover, setMouseHover] = useState(false);
+  let [mouseHover, setMouseHover] = useState(true);
   let [fade, setFade] = useState("");
 
   // function
   useEffect(() => {
     setFade(`end_transition_` + props.thumbnail[6]);
   }, []);
+
+  // useEffect를 통해서 시작하자마자 gif 전체 불러오게 했음.
+  useEffect(() => {
+    // 0.1초 후에 state를 변경
+    const timer = setTimeout(() => {
+      setMouseHover(false);
+    }, 50); // 0.1초 = 100밀리초
+
+    // 컴포넌트가 언마운트될 때 타이머를 정리
+    return () => clearTimeout(timer);
+  }, []); // 빈 의존성 배열을 사용하여 컴포넌트 마운트 시에만 실행
 
   return (
     <div

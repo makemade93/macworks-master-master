@@ -23,7 +23,7 @@ function SmallCards(props) {
     // 0.1초 후에 state를 변경
     const timer = setTimeout(() => {
       setMouseHover(false);
-    }, 100); // 0.1초 = 100밀리초
+    }, 50); // 0.1초 = 100밀리초
 
     // 컴포넌트가 언마운트될 때 타이머를 정리
     return () => clearTimeout(timer);
