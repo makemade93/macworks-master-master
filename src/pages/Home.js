@@ -90,14 +90,14 @@ function Home(props) {
         <SmallCards thumbnail={thumbnail[10]} />
         <SmallCardsBehance thumbnail={thumbnail[1]} />
         <SmallCards thumbnail={thumbnail[8]} />
+        <SmallCards thumbnail={thumbnail[3]} />
         <SmallCards thumbnail={thumbnail[9]} />
         <SmallCardsBehance thumbnail={thumbnail[2]} />
+        <SmallCards thumbnail={thumbnail[0]} />
         <SmallCards thumbnail={thumbnail[4]} />
         <SmallCardsBehance thumbnail={thumbnail[6]} />
         <SmallCardsBehance thumbnail={thumbnail[7]} />
-        <SmallCards thumbnail={thumbnail[3]} />
         <SmallCards thumbnail={thumbnail[5]} />
-        <SmallCards thumbnail={thumbnail[0]} />
       </div>
     </div>
   );
