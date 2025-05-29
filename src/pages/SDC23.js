@@ -34,7 +34,7 @@ function SDC23(props) {
           </p>
           <p style={{ fontWeight: "bold", opacity: "0.8" }}>
             My Role
-            <p>Main Design Lead(100%), UX/UI Design(100%)</p>
+            <p>Main Design Lead(50%), UX/UI Design(50%)</p>
           </p>
           <p style={{ fontWeight: "bold", opacity: "0.8" }}>
             Year
