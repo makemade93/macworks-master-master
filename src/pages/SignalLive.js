@@ -54,7 +54,7 @@ function SignalLive(props) {
           </p>
           <p style={{ fontWeight: "bold", opacity: "0.8" }}>
             My Role
-            <p>UX/UI, Interaction, Branding, Motion</p>
+            <p>UX/UI(100%), Interaction(100%), Branding(100%), Motion(100%)</p>
           </p>
           <p style={{ fontWeight: "bold", opacity: "0.8" }}>
             Year
