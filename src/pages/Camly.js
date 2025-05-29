@@ -38,7 +38,7 @@ function Camly(props) {
           </p>
           <p style={{ fontWeight: "bold", opacity: "0.8" }}>
             My Role
-            <p>UX/UI Design</p>
+            <p>UX/UI Design(100%)</p>
           </p>
           <p style={{ fontWeight: "bold", opacity: "0.8" }}>
             Year
