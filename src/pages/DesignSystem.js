@@ -38,7 +38,7 @@ function DesignSystem(props) {
           </p>
           <p style={{ fontWeight: "bold", opacity: "0.8" }}>
             My Role
-            <p>Designer</p>
+            <p>Designer(50%)</p>
           </p>
           <p style={{ fontWeight: "bold", opacity: "0.8" }}>
             State
